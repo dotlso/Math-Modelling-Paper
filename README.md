@@ -215,9 +215,14 @@ D                    (15,776 ; 22,272)    (13,200 ; 17,600)    (12,400 ; 12,400)
 ---
 
 ## 👥 Authors
+Agapito, Sean Andrei
+Baluyot, Luis Justin
+Contreras, Felix Miguel
+Nicolas, Elsoh Lhorenz
+Santos, Evan Ernest
 
 Bulacan State University — College of Science  
-Mathematical Modeling and Applications  
+Mathematical Modeling 
 Malolos City, Bulacan, Philippines
 
 ---
