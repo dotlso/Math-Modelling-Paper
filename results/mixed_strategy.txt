@@ -1,0 +1,19 @@
+Mixed-Strategy Nash Equilibrium Derivation
+==================================================
+Reduced 2x2 subgame payoffs after IESDS (H=0, M=1):
+  (H,H): A=23,400, B=23,400
+  (H,M): A=25,200, B=25,200
+  (M,H): A=25,200, B=25,200
+  (M,M): A=20,000, B=20,000
+
+Firm B indifference condition: U_B(H) = U_B(M)
+  23,400p + 25,200(1-p) = 25,200p + 20,000(1-p)
+  -1,800p + 25,200 = 5,200p + 20,000
+  -7,000p = -5,200
+  p* = -5,200 / -7,000 = 0.7429  (~74.3%)
+
+By symmetry, q* = p*:
+  q* = 0.7429  (~74.3%)
+
+Mixed-Strategy NE: sigma_A* = sigma_B* = (H=0.7429, M=0.2571)
+Expected payoff per firm: ~23,863 units/period

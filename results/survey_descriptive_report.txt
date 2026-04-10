@@ -1,0 +1,81 @@
+============================================================
+  BeSU RIDE-HAILING SURVEY — DESCRIPTIVE STATISTICS
+  Sample size: n = 60
+============================================================
+
+--- 1. RESPONDENT PROFILE ---
+
+  AGE:
+    18-20                     29 (48.3%)
+    21-23                     15 (25.0%)
+    17-below                  8 (13.3%)
+    24+                       8 (13.3%)
+
+  GENDER:
+    Female                    30 (50.0%)
+    Male                      29 (48.3%)
+    Prefer not                1 (1.7%)
+
+  YEAR LEVEL:
+    3rd                       18 (30.0%)
+    1st                       15 (25.0%)
+    2nd                       13 (21.7%)
+    4th                       8 (13.3%)
+    5th                       6 (10.0%)
+
+  WEEKLY USAGE:
+    3-5                       23 (38.3%)
+    >5                        13 (21.7%)
+    1-2                       13 (21.7%)
+    <1                        6 (10.0%)
+    None                      5 (8.3%)
+
+--- 2. RIDE-HAILING USAGE ---
+
+  Preferred Platform:
+    MoveIt               22 (36.7%)
+    JoyRide              22 (36.7%)
+    Angkas               16 (26.7%)
+
+  Average monthly trips : 8.76
+  Average weekly trips  : 2.19
+  JoyRide duopoly share : 50.0%
+  MoveIt duopoly share  : 50.0%
+  Est. daily demand (Q0): 1051 trips
+
+--- 3. PRICING SENSITIVITY ---
+
+  WTP Mean   : ₱70.92  (SD = ₱20.47)
+  WTP Median : ₱65.0
+  WTP ≤ ₱80  : 33 (55.0%)
+  WTP > ₱80  : 27 (45.0%)
+
+  On 20% fare increase — would switch/stop : 73.3%
+  On 20% fare increase — would stay/reduce  : 26.7%
+
+  Switch likelihood (₱15-20 lower) mean : 3.6/5 (SD=1.04)
+  Likely/Very Likely (≥4)               : 51.7%
+
+  Promo influence mean                  : 3.62/5 (SD=1.14)
+  High influence (≥4)                   : 58.3%
+
+  Scenario 1 (₱70 vs ₱50, ~28% gap):
+    Switch to MoveIt : 41 (68.3%) => 68/32 split used in H vs D payoff cell
+    Stay with JoyRide: 5 (8.3%)
+
+  Scenario 2 (₱80 vs ₱60, 25% gap):
+    Switch to Angkas : 34 (56.7%) => ~57/43 split (rounded to 60/40 for M vs D cell)
+    Stay preferred   : 10 (16.7%)
+
+--- 4. PLATFORM PERCEPTIONS ---
+
+  Dimension                              JoyRide     MoveIt     Angkas
+  -----------------------------------------------------------------
+  Affordability (mean/5)                    3.38       3.77       3.03
+  Safety & Reliability (mean/5)             4.08       3.73        3.4
+
+  Price vs. Quality orientation : mean = 3.43/5 (SD = 1.2)
+
+============================================================
+  END OF REPORT
+============================================================

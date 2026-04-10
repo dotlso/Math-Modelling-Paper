@@ -1,0 +1,8 @@
+Dominance Analysis — IESDS Trace
+==================================================
+Firm A: 'D' is strictly dominated by 'H' (payoffs: [23400, 25200, 22271] > [15776, 13200, 12400])
+Firm B: 'D' is strictly dominated by 'H' (payoffs: [23400, 25200, 22271] > [15776, 13200, 12400])
+
+Eliminated from Firm A: ['D']
+Eliminated from Firm B: ['D']
+Reduced game: {H, M} x {H, M}

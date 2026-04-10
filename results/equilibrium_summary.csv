@@ -1,0 +1,4 @@
+Type,Strategy_A,Strategy_B,pi_A,pi_B,Combined
+Pure-Strategy NE 1,H,M,25200.0,25200.0,50400.0
+Pure-Strategy NE 2,M,H,25200.0,25200.0,50400.0
+Mixed-Strategy NE,Pr(H)=0.7429,Pr(H)=0.7429,23862.86,23862.86,47725.71

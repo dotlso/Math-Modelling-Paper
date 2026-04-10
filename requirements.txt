@@ -1,0 +1,11 @@
+# requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+# Dependencies for the Game-Theoretic Fare Competition project.
+# Install all dependencies with:
+#     pip install -r requirements.txt
+#
+# Python version: 3.9 or higher recommended.
+# ─────────────────────────────────────────────────────────────────────────────
+
+numpy>=1.24.0
+matplotlib>=3.7.0
